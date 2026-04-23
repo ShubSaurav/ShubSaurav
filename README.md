@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shubham Saurav 👋  <br>🎓 Computer Science student at Chandigarh University  <br><br>💡 I’m passionate about building real-world solutions using technology.  <br>🚀 Currently working on projects in AI, IoT, and Full Stack Development  <br><br>### 🔧 Tech Stack  <br>- Languages: Java, Python, C++, JavaScript, React  <br>- Tools & Technologies: Arduino, MySQL, Git, Streamlit, FastAPI  <br>- Domains: Artificial Intelligence, Machine Learning, IoT Systems, Software Development  <br><br>### 📌 Projects  <br>- EducoLink – Where Intelligence Meets Study  <br>- Smart Pomodoro Timer – Improving productivity using smart scheduling  <br>- EcoBin – Smart Waste Management System  <br>- IoT-Based Weather Monitoring System  <br>- And many more...  <br><br>📫 Reach me at: shubhamsaurav2264@gmail.com
+Hi, I'm Shubham Saurav 👋  <br>🎓 Computer Science student at Chandigarh University  <br><br>💡 I’m passionate about building real-world solutions using technology.  <br>🚀 Currently working on projects in AI, IoT, and Full Stack Development  <br><br>### 🔧 Tech Stack  <br>📫 Reach me at: shubhamsaurav2264@gmail.com
 
 
 ## 🌐 Socials:
