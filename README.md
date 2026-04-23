@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shubham Saurav 👋  <br>🎓 Computer Science student at Chandigarh University  <br><br>💡 I’m passionate about building real-world solutions using technology. 🚀 Currently working on projects in AI, IoT, and Full Stack Development  <br>📫 Reach me at: shubhamsaurav2264@gmail.com
+Hi, I'm Shubham Saurav 👋  <br>🎓 Computer Science student at Chandigarh University  <br>💡 I’m passionate about building real-world solutions using technology.<br> 🚀 Currently working on projects in AI, IoT, and Full Stack Development  <br>📫 Reach me at: shubhamsaurav2264@gmail.com
 
 
 ## 🌐 Socials:
